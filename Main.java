@@ -9,7 +9,7 @@ public class Main {
 
         while (true) {
 
-            System.out.println("\n===== PG Expense Tracker =====");
+            System.out.println("\n PG Expense Tracker");
             System.out.println("1. Add Expense");
             System.out.println("2. View Expenses");
             System.out.println("3. Calculate Total Expenses");
